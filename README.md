@@ -1,3 +1,8 @@
+---
+layout: default
+title: Writings
+---
+
 # writings
 Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 
