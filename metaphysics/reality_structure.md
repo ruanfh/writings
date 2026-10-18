@@ -5,6 +5,7 @@ copyright: © 2026 Ruan Hanthequeste. All rights reserved.
 version: 0.1.0
 created: 2026-10-18
 updated: 2026-10-18
+layout: default
 ---
 
 
