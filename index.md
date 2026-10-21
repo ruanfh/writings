@@ -8,5 +8,12 @@ permalink: /
 Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 
 ## Content:
+
+### Metaphysics
+
 - [Reality structure](metaphysics/reality_structure.md)
 - [Genesis cosmogony reading](metaphysics/genesis_cosmogony.md)
+
+### Short stories
+
+- [The sword of old](short_stories/the_sword.md)
