@@ -2,7 +2,7 @@
 title: Reality structure
 author: Ruan Hanthequeste
 copyright: © 2026 Ruan Hanthequeste. All rights reserved.
-version: 0.1.0
+version: 0.1.1
 created: 2026-10-18
 updated: 2026-10-18
 layout: default
@@ -37,16 +37,16 @@ It would require three kinds of disk:
 The Universal-disk is updated by the Universal-process.
 
 Each sentient being is its own process.
-Each sentient being would own a partition of the Sentient-disk, that would be private.
+Each sentient being would own a partition of the Sentient-disk, which would be private.
 
 The Archetypal-disk, from here on called the Archetypes, has all instructions.
-All the mathematical constants, all the physical constants and all the psychical constants.
+All the mathematical constants, all the physical constants and all the psychological constants.
 
 The Archetypes have all the required instructions for the Universal-process and the Sentient-processes.
 
 ### Instantiation
 
-The Universal-process read from the Universal-disk, then read the instructions in the Archetypes, then apply the transformation and finally writes the result on the Universal-disk.
+The Universal-process reads from the Universal-disk, then reads the instructions in the Archetypes, then apply the transformation and finally writes the result on the Universal-disk.
 
 ```mermaid
 flowchart TB
@@ -63,7 +63,7 @@ flowchart TB
 ### Discovery
 
 Given the current state of a sentient being, the Archetypes contain the instructions to the next possible states.
-Freewill is the pointer that choose the set of instructions to apply.
+Free will is the pointer that chooses the set of instructions to apply.
 
 ```mermaid
 flowchart TB
@@ -79,7 +79,7 @@ flowchart TB
 
 ### Body, Sentience and the Universe
 
-The Body, being part of the Universe, is the interface by which sentience is accessed, and can access the Universe.
+The Body, being part of the Universe, is the interface through which sentience both receives sensation from and acts upon the Universe.
 
 ```mermaid
 flowchart TB
@@ -100,7 +100,7 @@ flowchart TB
 
 ### Communication between sentient beings
 
-Given what was stablished so far, communication work the following way:
+Given what was established so far, communication works the following way:
 
 ```mermaid
 flowchart TB
