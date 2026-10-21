@@ -2,7 +2,7 @@
 title: Genesis cosmogony reading
 author: Ruan Hanthequeste
 copyright: © 2026 Ruan Hanthequeste. All rights reserved.
-version: 0.1.1
+version: 0.1.2
 created: 2026-10-19
 updated: 2026-10-21
 layout: default
@@ -28,9 +28,9 @@ Let one be the symbol of God.
 Let each day's action be plus one.
 
 A system with only one element has no inner borders.
-Therefore such system is truly whole and indivisible.
+Therefore such a system is truly whole and indivisible.
 A system with only one element has no outer borders.
-Therefore such system is truly singular and unique.
+Therefore such a system is truly singular and unique.
 
 Note that there is no one-element system in nature.
 Even the partially individualized soul is not singular.
@@ -104,12 +104,13 @@ Four elements are highlighted:
 | High | Waters above | Sky      |
 | Low  | Sea          | Dry land |
 
-Let four be the whole cosmos. The plants growth indicate that the cosmos is ready for life.
+Let four be the whole cosmos.
+The growth of plants indicates that the cosmos already contains life but not sentience yet.
 
 Four points are the minimum to build a solid.
 Four has volume, therefore actuality.
 
-The circular permutation of Four is six, space have six directions:
+The circular permutation of Four is six, space has six directions:
 - Upward
 - Downward
 - Forward
@@ -135,7 +136,7 @@ There are five layers above the ground:
 - Waters above
 
 Five is four plus one. In other words the unity of One in the mutability of the Cosmos.
-One that remain inside Four. That perfectly aligns with the planets and stars that are a unity traveling across the cosmos.
+One that remains inside Four. That perfectly aligns with the planets and stars that are a unity traveling across the cosmos.
 
 Let five be the symbol of bodies. Note that vegetation although being homeostatic bodies are not perceived as singular bodies but rather vegetation, i.e. a tapestry or canopy.
 
@@ -144,7 +145,7 @@ The celestial bodies draw attention to the light and dark contrast.
 
 The five layers are hierarchical, which highlights the hierarchical nature of attention, the light of sentience.
 
-In a way this day can be thought as the day of the preconscious.
+In a way this day can be thought of as the day of the preconscious.
 
 ## Day 5
 
@@ -160,7 +161,7 @@ Three dimensions underwater and three dimensions over the sky, six dimensions in
 
 Six is two times three. That means it has all the properties of two (Archetypes) and three (Time).
 
-Sentience has a immutable core, just like an archetype and has a sense of time. Note that this combination produces the append-only or add-only behavior of consciousness, where information can only be gathered and is never lost (unless something disrupts the normal behavior).
+Sentience has an immutable core, just like an archetype and has a sense of time. Note that this combination produces the append-only or add-only behavior of consciousness, where information can only be gathered and is never lost (unless something disrupts the normal behavior).
 In other words, each new experienced day becomes part of the inner core of sentience, thus add-only.
 
 Day five is when sentience is first explicitly mentioned, the birds and fishes draw attention to the dry and wet.
