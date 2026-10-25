@@ -2,16 +2,18 @@
 title: Genesis cosmogony reading
 author: Ruan Hanthequeste
 copyright: © 2026 Ruan Hanthequeste. All rights reserved.
-version: 0.1.2
+version: 0.2.0
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-25
 layout: default
 ---
 
 # Genesis cosmogony reading
 
-This reading will be focused only on: Genesis 1:1-2:3.
-From here on, let text mean Genesis 1:1-2:3.
+This reading makes no claim to authority.
+
+It is limited strictly to Genesis 1:1–2:3.
+From this point forward, “text” refers only to that passage.
 
 ## Summary of the reading
 
@@ -203,18 +205,18 @@ Or two times four, i.e. the two distinctions from Day one: light and shadow, tim
 Light is good, darkness is the absence of good: evil.
 Dry can be thought of as principled and wet as adaptable or pragmatic.
 Finally high and low can be thought of as outward and inward.
-That produces eight stages of inner development:
+That produces eight types:
 
-| Clarity  | Dryness    | Height  | Stage |
-| -------- | ---------- | ------- | ----- |
-| learned  | principled | outward | 8     |
-| learned  | principled | inward  | 7     |
-| learned  | pragmatic  | outward | 6     |
-| learned  | pragmatic  | inward  | 5     |
-| ignorant | principled | outward | 4     |
-| ignorant | principled | inward  | 3     |
-| ignorant | pragmatic  | outward | 2     |
-| ignorant | pragmatic  | inward  | 1     |
+| Clarity  | Dryness    | Height  | Label   |
+| -------- | ---------- | ------- | ------- |
+| learned  | principled | outward | Knight  |
+| learned  | principled | inward  | Monk    |
+| learned  | pragmatic  | outward | Ranger  |
+| learned  | pragmatic  | inward  | Scholar |
+| ignorant | principled | outward | Reaper  |
+| ignorant | principled | inward  | Wretch  |
+| ignorant | pragmatic  | outward | Tyrant  |
+| ignorant | pragmatic  | inward  | Rogue   |
 
 Let the Cosmos be four. Sentience being eight contains the cosmic structure within plus another set of four over it.
 In other words the Cosmos has Time the Soul has Time-in-the-Soul, the Cosmos has space, the Soul has Space-in-the-Soul.
