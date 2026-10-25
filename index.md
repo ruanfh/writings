@@ -17,3 +17,9 @@ Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 ### Short stories
 
 - [The sword of old](short_stories/the_sword.md)
+
+### Aphorisms
+
+- [Ethics](aphorisms/ethics.md)
+- [Stories](aphorisms/stories.md)
+- [Expression](aphorisms/expression.md)
