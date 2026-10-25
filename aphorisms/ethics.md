@@ -2,7 +2,7 @@
 title: Ethics aphorisms
 author: Ruan Hanthequeste
 copyright: © 2026 Ruan Hanthequeste. All rights reserved.
-version: 0.1.0
+version: 0.2.0
 created: 2026-10-25
 updated: 2026-10-25
 layout: default
@@ -22,4 +22,4 @@ Before and after someone conjures "Them", there are only "Us": everyone.
 
 ---
 
-Words are sparks, mood is the weather, and the listener is the material. Fire can warm or harm.
+Words are sparks, context is the weather, and the listener is the material. Fire can warm or harm.
