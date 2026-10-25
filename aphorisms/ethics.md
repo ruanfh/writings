@@ -19,3 +19,7 @@ Freedom is not a right, it is one's duty towards oneself.
 ---
 
 Before and after someone conjures "Them", there are only "Us": everyone.
+
+---
+
+Words are sparks, mood is the weather, and the listener is the material. Fire can warm or harm.
