@@ -17,3 +17,4 @@ Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 - [Ethics](aphorisms/ethics.md)
 - [Stories](aphorisms/stories.md)
 - [Expression](aphorisms/expression.md)
+- [Paraphrasing](aphorisms/paraphrasing.md)
