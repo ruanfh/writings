@@ -1,7 +1,7 @@
 # writings
 Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 
-## Content:
+## Content
 
 ### Metaphysics
 
@@ -10,7 +10,7 @@ Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 
 ### Short stories
 
-- [The sword of old](short_stories/the_sword.md)
+- [The sword](short_stories/the_sword.md)
 
 ### Aphorisms
 
