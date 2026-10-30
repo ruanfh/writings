@@ -2,9 +2,9 @@
 title: Psychic auras
 author: Ruan Hanthequeste
 copyright: © 2026 Ruan Hanthequeste. All rights reserved.
-version: 0.1.0
+version: 0.2.0
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-30
 layout: default
 ---
 
@@ -145,3 +145,56 @@ flowchart BT
 3. The bare minimum first hand experience of the world unlocks abstraction interest, and the possibility of intellectual pursuits.
 
 Access to the world is a condition to the autonomy of thought, otherwise people rely entirely on what they heard other people say. For instance if a scientific result can't be reproduced one must trust the initial data.
+
+## Auras and temperaments
+
+| Quality | Positive  | Negative |
+| ------- | --------- | -------- |
+| Hot     | energetic | restless |
+| Cold    | composed  | inert    |
+| Dry     | focused   | rigid    |
+| Wet     | fluid     | diffuse  |
+
+Therefore the most natural mapping would be the following:
+
+| Aura   | Color  | Dryness | Heat | Humor       |
+| ------ | ------ | ------- | ---- | ----------- |
+| Mind   | Blue   | Dry     | Cold | Melancholic |
+| World  | Green  | Wet     | Cold | Phlegmatic  |
+| People | Yellow | Wet     | Hot  | Sanguine    |
+| Body   | Red    | Dry     | Hot  | Choleric    |
+
+Note that this mapping is more of an overlap than a perfect fit.
+
+### Aura adjacencies given their qualities
+
+```mermaid
+block
+  columns 3
+  Body space Mind
+  space space space
+  People space World
+
+  Mind --"Dry"--- Body
+  People --"Wet"--- World
+  World --"Cold"--- Mind
+  Body --"Hot"--- People
+
+  Body -.- World
+  People -.- Mind
+
+  classDef body fill:#9b5c5c,color:#ffffff,stroke:#6f4040
+  classDef people fill:#f1e2b8,color:#493f2c,stroke:#c8b77e
+  classDef world fill:#526f5b,color:#ffffff,stroke:#3c5143
+  classDef mind fill:#526b8a,color:#ffffff,stroke:#3b4e66
+
+  class Body body
+  class People people
+  class World world
+  class Mind mind
+```
+
+The dashed lines show opposition, the continuous/labeled lines show adjacency.
+
+Adjacency can also manifest as competition.
+Opposition can also manifest as complementarity.
