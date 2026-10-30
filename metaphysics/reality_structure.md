@@ -2,9 +2,9 @@
 title: Reality structure
 author: Ruan Hanthequeste
 copyright: © 2026 Ruan Hanthequeste. All rights reserved.
-version: 0.1.1
+version: 0.1.2
 created: 2026-10-18
-updated: 2026-10-21
+updated: 2026-10-30
 layout: default
 ---
 
@@ -14,15 +14,20 @@ layout: default
 ## Simplified model
 
 ```mermaid
-flowchart TB
-	A[Archetypes]
-	U[Universe]
-	S[Sentience]
-	A --Instantiation--> U
-	A --Discovery--> S
-	U --Sensation--> S
-	S --Action--> U
+block
+    columns 3
+	space Archetypes space
+	space space space
+    Sentience space Universe
+
+	Archetypes --"Instantiation"--> Universe
+	Archetypes --"Discovery"--> Sentience
+	Sentience --"Interaction"<--> Universe
 ```
+
+There are two kinds of interaction:
+- Action: when the sentience transforms the universe (including its own body)
+- Sensation: when the universe appends information to the sentience.
 
 ## Disks and processes
 Imagine the whole reality is a computer.
@@ -55,8 +60,8 @@ flowchart TB
 		C[Universal-process]
 		end
 	S --Feeds--> C
-	C ~~~ A[Archetypes]
-    A -.Instructions.-> C
+	C --Access--> A[Archetypes]
+    A --Instructions--> C
 	C --Instantiates--> S 
 ```
 
@@ -72,8 +77,8 @@ flowchart TB
         P[Sentient-process]
         end
 	D --Feeds--> P
-	P ~~~ A[Archetypes]
-    A -.Instructions.-> P
+	P --Access--> A[Archetypes]
+    A --Instructions--> P
 	P --Discovery--> D 
 ```
 
@@ -88,14 +93,15 @@ flowchart TB
         P[Sentient-process]
         end
     subgraph U[Universe]
-        B[Body]
-        E[Environment]
+        B[Sentient body]
+        E[Rest of the universe]
         end
-    D --Action--> P
+    D --Instruction--> P
+    P --Annexation--> D
     B --Sensation--> P
-    P --Add--> D
-    P --Update--> B
-    B <-.Interact.-> E
+    P --Action--> B
+    B --Movement--> E
+    E --Stimulus--> B
 ```
 
 ### Communication between sentient beings
