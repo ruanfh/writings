@@ -14,12 +14,6 @@ This reading makes no claim to authority.
 
 It is limited strictly to Genesis 2:4–3:24.
 
-## Status: Work in progress
-
-Missing:
-
-- Consequences of eating the fruit
-
 ## Symbolism of the senses
 
 | Sense   | Symbolism                      |
@@ -135,7 +129,9 @@ Instead they enacted it as if it was a necessity.
 
 The power they receive from eating the fruit is actually a curse.
 The curse of being bound by arbitrary social norms.
-With that curse comes the power to craft and impose one's social norms upon others.
+With that curse comes the power to craft and impose one's social norms upon oneself and others.
+Where "craft" is meant in an almost involuntarily way.
+
 That can be seen as the origin of evil in human actions: self-righteousness.
 
 Another very clear indicator that the new rule is arbitrary is the fact that God does not recognize the rule as valid.
