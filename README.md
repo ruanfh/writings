@@ -8,6 +8,10 @@ Personal archive of writings by Ruan Hanthequeste. All rights reserved.
 - [Reality structure](metaphysics/reality_structure.md)
 - [Genesis cosmogony reading](metaphysics/genesis_cosmogony.md)
 
+### Ethics
+
+- [Genesis forbidden fruit reading](ethics/forbidden_fruit.md)
+
 ### Short stories
 
 - [The sword](short_stories/the_sword.md)
